@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @hacky20
+- 🌱 I’m currently learning Python
